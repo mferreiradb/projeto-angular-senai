@@ -1,12 +1,11 @@
-footer {
-  background-color: black;
-  width: 100%;
-  text-align: center;
-  color: white;
-  height: 100px;
-  padding-top: 30px;
+footer{
+    background: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+    padding-top: 30px;
 }
 
 a {
-  color: white;
+  color: #fff
 }
